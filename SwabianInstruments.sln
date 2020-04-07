@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwabianInstruments", "SwabianInstruments\SwabianInstruments.csproj", "{8C73007D-1D02-47A5-B72F-2E4142C5D16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C73007D-1D02-47A5-B72F-2E4142C5D16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C73007D-1D02-47A5-B72F-2E4142C5D16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C73007D-1D02-47A5-B72F-2E4142C5D16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C73007D-1D02-47A5-B72F-2E4142C5D16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF8B616D-30E9-4916-8F96-974D06175AFA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\bin\Debug\netcoreapp2.2\SwabianInstruments.deps.json
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\bin\Debug\netcoreapp2.2\SwabianInstruments.runtimeconfig.json
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\bin\Debug\netcoreapp2.2\SwabianInstruments.runtimeconfig.dev.json
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\bin\Debug\netcoreapp2.2\SwabianInstruments.dll
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\bin\Debug\netcoreapp2.2\SwabianInstruments.pdb
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\obj\Debug\netcoreapp2.2\SwabianInstruments.csprojAssemblyReference.cache
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\obj\Debug\netcoreapp2.2\SwabianInstruments.csproj.CoreCompileInputs.cache
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\obj\Debug\netcoreapp2.2\SwabianInstruments.AssemblyInfoInputs.cache
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\obj\Debug\netcoreapp2.2\SwabianInstruments.AssemblyInfo.cs
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\obj\Debug\netcoreapp2.2\SwabianInstruments.dll
+C:\Projects\Person\CoderByte\SwabianInstruments\SwabianInstruments\obj\Debug\netcoreapp2.2\SwabianInstruments.pdb
